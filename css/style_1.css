@@ -1,0 +1,19 @@
+body {
+    color: rgb(149, 57, 163);
+    font-size: 14pt;
+    background-color: rgb(138, 239, 252);
+}
+table {
+    color: rgb(121, 13, 101);
+    background-color: rgba(244, 244, 240, 0.912);
+}
+th {
+    color: aliceblue;
+    font-size: 16pt;
+    background-color: brown;
+}
+h4{
+    color: rgb(121, 13, 101);
+    font-size: 18pt;
+}
+a:link{ color: darksalmon; text-decoration: none;}
